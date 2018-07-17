@@ -1,0 +1,5 @@
+# provide list of urls below, one per line
+# start lines with # character to indicate comments
+#
+https://provost.gmu.edu/?agenda=august-2017-agenda-minutes
+https://provost.gmu.edu/?agenda=may-2017-agenda-minutes
